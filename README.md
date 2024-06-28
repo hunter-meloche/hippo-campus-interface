@@ -1,6 +1,6 @@
 # hippo-campus-interface
 A chat interface to interact with the [hippo-campus memory system](https://github.com/hunter-meloche/hippo-campus) for ChatGPT.
-This is not meant to be run standalone without hippo-campus. However, hippo-campus can easily be used by other chat interfaces other than this one. This just an example implementation.
+This is not meant to be run standalone without hippo-campus. However, hippo-campus can easily be used by other chat interfaces other than this one. This is just an example implementation.
 ```shell
 python app.py
 ```
